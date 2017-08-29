@@ -157,7 +157,7 @@ extern char* vaguegeom_to_hexvwkb(const VAGUEGEOM *vgeom, uint8_t variant, size_
 /* operations of vague geometry of VASA */
 
 /*
-* SPATIAL OPERATIONS (UNION, INTERSECTION AND DIFFERENCE)
+* Vague Geometric Set Operations (UNION, INTERSECTION AND DIFFERENCE)
 */
 extern VAGUEGEOM *vaguegeom_union(const VAGUEGEOM *vgeom1, const VAGUEGEOM *vgeom2);
 extern VAGUEGEOM *vaguegeom_intersection(const VAGUEGEOM *vgeom1, const VAGUEGEOM *vgeom2);
