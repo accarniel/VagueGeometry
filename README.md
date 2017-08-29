@@ -4,7 +4,7 @@ The VagueGeometry is an extension to represent vague spatial data based on the V
 Fully implemented by Anderson Chaves Carniel.
 Supervisors: Prof. Dr. Ricardo Rodrigues Ciferri and Prof. Dr. Cristina Dutra de Aguiar Ciferri
 
-Developed at UFSCar.
+Developed at UFSCar, Brazil.
 
 To cite VagueGeometry:
 
