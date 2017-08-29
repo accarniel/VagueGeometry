@@ -1,0 +1,29 @@
+VagueGeometry - Vague Spatial Objects for PostgreSQL
+=================================================================
+
+:Version: 1.0.0
+:Date: 2015-11-30
+:Website: http://gbd.dc.ufscar.br/vaguegeometry/
+
+This distribution contains a module which implements vague spatial data types based on the Vague Spatial Algebra (VASA), which is an exact model.
+
+
+REQUIREMENTS
+------------
+
+VagueGeometry is compatible with PostgreSQL 9.0 and above.
+It reuses PostGIS 2.2.0 or above (to confirm).
+
+You *must* have the full PostgreSQL - including server headers -, and the PostGIS installed for
+this to work.
+
+INSTALLATION, CONFIGURATION, AND EXAMPLES OF USAGE
+-----------
+
+Pleases access the full documentation here:
+
+http://gbd.dc.ufscar.br/vaguegeometry/
+
+Please, cite VagueGeometry in your work as:
+
+Anderson Chaves Carniel, Ricardo Rodrigues Ciferri & Cristina Dutra de Aguiar Ciferri. Embedding Vague Spatial Objects into Spatial Databases using the VagueGeometry Abstract Data Type. 16nd Brazilian Symposium on GeoInformatics (GeoInfo 2015), 233-244, 2015.

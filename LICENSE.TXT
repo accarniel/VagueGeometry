@@ -1,0 +1,43 @@
+VagueGeometry Licensing
+==================
+
+This file attempts to include all licenses that apply within the VagueGeometry
+source code, in particular any that are supposed to be exposed to the end
+user for credit requirements for instance. 
+
+VagueGeometry Development
+----------------
+
+It was fully designed and implemented by Anderson Chaves Carniel (USP/UFSCar - Brazil)
+Research Gate: https://www.researchgate.net/profile/Anderson_Chaves_Carniel
+
+Any questions, please send an email to accarniel@gmail.
+
+Please, cite VagueGeometry in your work as:
+
+Carniel, A. C., Ciferri, R. R., & de Aguiar Ciferri, C. D. (2016). The VagueGeometry Abstract Data Type. Journal of Information and Data Management, 7(1), 18.
+
+VagueGeometry General
+----------------
+
+In general VagueGeometry may be distributed and/or modified under the conditions
+of the GNU General Public License, either version 2 or (at your option) any
+later version. Please refer to the COPYING file for details.
+
+VagueGeometry has dependencies on other libraries which are not under GPL and
+that are commonly distributed with PostGIS core libraries.  In general
+these are dynamically linked libraries.  Libraries are as follows:
+
+Proj4 - http://proj.osgeo.org -- X/MIT License
+GEOS - http://geos.osgeo.org -- LGPL License
+LibXML - http://xmlsoft.org/ -- X/MIT License
+GDAL - http://gdal.osgeo.org/ -- X/MIT Style License
+
+In addition, VagueGeometry is an extension of the PostGIS, which has GNU license.
+Therefore, consider also to use the LICENSE.txt from the PostGIS source code.
+
+------------------------------------------------
+
+The documentation for VagueGeometry is available at 
+http://gbd.dc.ufscar.br/vaguegeometry/
+

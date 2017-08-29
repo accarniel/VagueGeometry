@@ -1,0 +1,5 @@
+#control vaguegeometry extension using VASA - version 1.1
+comment = 'Vague geometry handler - VASA'
+default_version = '1.1'
+module_pathname = '$libdir/vasavgeom-1.1'
+relocatable = true
